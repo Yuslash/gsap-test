@@ -1,3 +1,6 @@
+Here’s the complete README content:
+
+```markdown
 # GSAP Test Project
 
 ## 🚀 Getting Started
@@ -6,38 +9,38 @@
    ```bash
    git clone https://github.com/Yuslash/gsap-test.git
    cd gsap-test
+   ```
 
-    Install dependencies:
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-    bash
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-npm install
+## 📁 Project Structure
 
-Start the development server:
-
-bash
-
-    npm run dev
-
-📁 Project Structure
-
-plaintext
-
+```plaintext
 gsap-test/
 ├── index.html          # Main HTML file
 ├── main.js             # JavaScript file for GSAP animations
 ├── style.css           # CSS styles
 ├── package.json        # Project dependencies
 └── .gitignore          # Ignored files
+```
 
-🌟 Features
+## 🌟 Features
 
-    GSAP Animations: Smooth, performant animations using GSAP.
-    Simple Structure: Easy to understand and extend.
+- **GSAP Animations**: Smooth, performant animations using GSAP.
+- **Simple Structure**: Easy to understand and extend.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-    HTML
-    CSS
-    JavaScript
-    GSAP
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **GSAP**
+```
