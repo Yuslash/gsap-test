@@ -1,4 +1,3 @@
-Here’s the complete README content:
 
 ```markdown
 # GSAP Test Project
