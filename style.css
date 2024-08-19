@@ -1,0 +1,33 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.firstvh
+{
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.secondvh
+{
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.box
+{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+.box2
+{   
+    margin-top: 300px;
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    
+}
